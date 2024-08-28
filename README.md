@@ -3,7 +3,7 @@ Python version: 3.11.9
 opencv version: 4.10.0.84  
 numpy version: 2.0.0  
 
-#Haar Cascasde
+# Haar Cascasde
 This program uses the Haar Cascade machine learning algorithm.  
 
 More information can be found here: https://www.analyticsvidhya.com/blog/2022/04/object-detection-using-haar-cascade-opencv/#:~:text=Haar%20cascade%20uses%20the%20cascading,cascade%20works%20as%20a%20classifier.
